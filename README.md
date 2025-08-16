@@ -1,5 +1,5 @@
 # Dimensionality-Reduction
-15 algorithms used here
+15 algorithms used here---
 Principal Component Analysis (PCA)
 Independent Component Analysis (ICA)
 t-SNE (t-distributed Stochastic Neighbor Embedding)
